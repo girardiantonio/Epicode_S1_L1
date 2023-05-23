@@ -1,0 +1,42 @@
+body {
+    background: linear-gradient(120deg, #ffaf04, #adadad);
+    color: black;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.principal {
+    width: 100%;
+    text-align: center;
+}
+
+.bio {
+    text-align: justify;
+}
+
+.hobby {
+    text-align: center;
+}
+
+.iam {
+    text-align: justify;
+}
+
+td, th {
+    border:1px solid #ddd;
+    padding:8px;
+}
+
+img {
+    width: 300px;
+}
+
+.table-primary {
+    width: 100%;
+}
+
+.skills {
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
